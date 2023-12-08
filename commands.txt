@@ -1,0 +1,8 @@
+git clone <url> : clone a repository
+
+git log : show the history of the repository
+
+git status : check the status of the repository
+
+git add <file> : add a file to the staging area
+
